@@ -1,4 +1,4 @@
-# cucumberJSdemo
+# CucumberJS demonstration
 
 Code for a brief and simple demo using CucumberJS within a Node project done for bonus marks for college classes.
 
